@@ -1,0 +1,2 @@
+Ahoj, světe!
+Toto je ukázkový textový soubor.
