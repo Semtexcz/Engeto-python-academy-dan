@@ -1,0 +1,9 @@
+2024-11-12 20:50:27,919 - INFO - Cena produktu vypočítána: cena=5, množství=3, celková cena=15
+2024-11-12 20:50:27,919 - INFO - Produkt přidán do košíku: Jablko
+2024-11-12 20:50:27,920 - INFO - Cena produktu vypočítána: cena=3, množství=6, celková cena=18
+2024-11-12 20:50:27,920 - INFO - Produkt přidán do košíku: Banán
+2024-11-12 20:50:27,920 - WARNING - Záporná hodnota pro cenu nebo množství: cena=-10, množství=2
+2024-11-12 20:50:27,920 - INFO - Produkt přidán do košíku: Hrozny
+2024-11-12 20:50:27,920 - ERROR - Nesprávný typ pro cenu nebo množství: '<' not supported between instances of 'str' and 'int'
+2024-11-12 20:50:27,920 - INFO - Produkt přidán do košíku: Pomeranč
+2024-11-12 20:50:27,921 - INFO - Celková cena košíku vypočítána: 33

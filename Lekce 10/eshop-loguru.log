@@ -1,0 +1,9 @@
+2024-11-12 20:53:57.237 | INFO     | __main__:vypocti_cenu_produktu:15 - Cena produktu vypočítána: cena=5, množství=3, celková cena=15
+2024-11-12 20:53:57.239 | INFO     | __main__:pridej_do_kosiku:26 - Produkt přidán do košíku: Jablko
+2024-11-12 20:53:57.243 | INFO     | __main__:vypocti_cenu_produktu:15 - Cena produktu vypočítána: cena=3, množství=6, celková cena=18
+2024-11-12 20:53:57.246 | INFO     | __main__:pridej_do_kosiku:26 - Produkt přidán do košíku: Banán
+2024-11-12 20:53:57.249 | WARNING  | __main__:vypocti_cenu_produktu:12 - Záporná hodnota pro cenu nebo množství: cena=-10, množství=2
+2024-11-12 20:53:57.250 | INFO     | __main__:pridej_do_kosiku:26 - Produkt přidán do košíku: Hrozny
+2024-11-12 20:53:57.253 | ERROR    | __main__:vypocti_cenu_produktu:18 - Nesprávný typ pro cenu nebo množství: '<' not supported between instances of 'str' and 'int'
+2024-11-12 20:53:57.253 | INFO     | __main__:pridej_do_kosiku:26 - Produkt přidán do košíku: Pomeranč
+2024-11-12 20:53:57.255 | INFO     | __main__:vypocti_celkovou_cenu_kosiku:33 - Celková cena košíku vypočítána: 33
