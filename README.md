@@ -1,6 +1,8 @@
 # Generovaná osnova
 
 
+## Python, obecný úvod
+
 1. **Instalace a spuštění Pythonu**:
    - Instalace Pythonu 3.8+.
    - Spuštění Pythonu v terminálu (kontrola verze, interaktivní interpret).
@@ -46,6 +48,8 @@
    - Výpis výsledků pomocí `print()`.
 ---
 
+
+## Podmínky a metody
 
 1. **Rozhodování v Pythonu**:
    - Použití `if`, `elif`, `else`.
@@ -96,6 +100,8 @@
 ---
 
 
+## Slovníky a množiny
+
 1. **Datový typ `dict` (slovník)**:
    - Vytváření slovníků (`{key: value}`).
    - Přístup k hodnotám pomocí klíče (`dict[key]`).
@@ -127,10 +133,10 @@
    - Vytváření aplikací na základě slovníků a množin (např. filmový slovník).
    - Manipulace s daty pomocí metod a operátorů.
    - Testování existence klíčů a hodnot.
-
-Chceš, abych z tohoto checklistu vytvořil šablonu, kterou můžeš snadno použít při výuce? 😊
 ---
 
+
+## For cyklus
 
 1. **Iterační protokol (smyčky / cykly)**:
    - Rozumět principu iteračních protokolů (`for` a `while` smyčky).
@@ -165,9 +171,10 @@ Chceš, abych z tohoto checklistu vytvořil šablonu, kterou můžeš snadno pou
    - Vytváření slovníků na základě zpracovaného textu.
    - Automatické generování e-mailů nebo jiných hodnot pomocí `for` smyček.
 
-Chceš, abych z toho vytvořil šablonu na checklist, kterou můžeš jednoduše používat při výuce? 😊
 ---
 
+
+## While cyklus
 
 1. **While smyčka**:
    - Použití `while` smyčky pro iteraci dokud je podmínka `True`.
@@ -201,6 +208,8 @@ Chceš, abych z toho vytvořil šablonu na checklist, kterou můžeš jednoduše
    - Použití comprehensions k filtrování a zpracování dat.
 ---
 
+
+## Knihovny
 
 1. **Obecně ke knihovnám**:
    - Co je to knihovna v Pythonu (soubory `.py` obsahující opakovaně použitelný kód).
@@ -249,6 +258,8 @@ Chceš, abych z toho vytvořil šablonu na checklist, kterou můžeš jednoduše
 ---
 
 
+## Uživatelské funkce
+
 1. **Funkce v Pythonu**:
    - Rozdíl mezi **zabudovanými funkcemi** a **uživatelskými funkcemi**.
    - Jak definovat a spustit uživatelskou funkci (`def <nazev_funkce>(parametry):`).
@@ -284,6 +295,8 @@ Chceš, abych z toho vytvořil šablonu na checklist, kterou můžeš jednoduše
 ---
 
 
+## Pokročilá práce s funkcemi
+
 1. **Vstupy uživatelských funkcí**:
    - Rozdíl mezi **parametry** a **argumenty**.
    - Různé vzory vstupů:
@@ -318,7 +331,7 @@ Chceš, abych z toho vytvořil šablonu na checklist, kterou můžeš jednoduše
 ---
 
 
-### 📁 Práce se soubory a adresáři
+### Práce s textovými soubory
 
 1. **Základní principy I/O**:
    - Rozdíl mezi RAM a diskem.
@@ -398,7 +411,7 @@ Chceš, abych z toho vytvořil šablonu na checklist, kterou můžeš jednoduše
 ---
 
 
-### 📁 Chyby a výjimky v Pythonu
+## Výjimky a debuggování v Pythonu
 
 1. **Traceback**:
    - Co je to **traceback** a jak ho číst (cesta k chybě, typ chyby, popis chyby).
@@ -450,7 +463,7 @@ Chceš, abych z toho vytvořil šablonu na checklist, kterou můžeš jednoduše
 ---
 
 
-### 📁 Práce se soubory a složkami (opakování)
+## Formáty souborů
 
 1. **Pathlib a Shutil**:
    - Vytváření složek (`Path.mkdir()`).
@@ -496,8 +509,5 @@ Chceš, abych z toho vytvořil šablonu na checklist, kterou můžeš jednoduše
    - Vytvoření skriptu, který načítá CSV soubory, zpracovává data a ukládá je ve formátu JSON.
    - Implementace argumentů příkazové řádky pro nastavení vstupního a výstupního souboru.
 
----
-
-Chceš, abych z toho udělal checklist pro studenty, aby si mohli kontrolovat, co už umí? 😊
 ---
 
