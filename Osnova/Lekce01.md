@@ -1,5 +1,3 @@
-Checklist dovedností v Pythonu pro tuto lekci:
-
 1. **Instalace a spuštění Pythonu**:
    - Instalace Pythonu 3.8+.
    - Spuštění Pythonu v terminálu (kontrola verze, interaktivní interpret).

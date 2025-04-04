@@ -1,0 +1,39 @@
+name: Generate README from Osnova
+
+on:
+  push:
+    paths:
+      - 'Osnova/*.md'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Concatenate Markdown files into README.md
+        run: |
+          echo "# Generovaná osnova" > README.md
+          echo "" >> README.md
+          for file in $(ls Osnova/*.md | sort); do
+            echo "📝 Přidávám $file"
+            echo "" >> README.md
+            cat "$file" >> README.md
+            echo -e "\n---\n" >> README.md
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Automaticky vygenerovaný README z Osnova"
+          git push
+        env:
+          # Potřebuješ oprávnění k pushnutí zpět do repozitáře
+          # Tento krok funguje jen v repozitáři, kde je povolené GitHub Actions token pushování
+          # Pokud by nefungovalo, můžu ti pomoct přidat PAT (Personal Access Token)
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
