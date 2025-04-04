@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<library>
+  <book>
+    <title>Effective Python</title>
+    <author>Brett Slatkin</author>
+    <year>2015</year>
+    <publisher>Pearson</publisher>
+    <price currency="USD">30.00</price>
+  </book>
+  <book>
+    <title>Clean Code</title>
+    <author>Robert C. Martin</author>
+    <year>2008</year>
+    <publisher>Prentice Hall</publisher>
+    <price currency="USD">40.00</price>
+  </book>
+  <book>
+    <title>Python Crash Course</title>
+    <author>Eric Matthes</author>
+    <year>2019</year>
+    <publisher>No Starch Press</publisher>
+    <price currency="USD">25.00</price>
+  </book>
+</library>
