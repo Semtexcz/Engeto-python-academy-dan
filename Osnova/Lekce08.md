@@ -1,3 +1,5 @@
+## Pokročilá práce s funkcemi
+
 1. **Vstupy uživatelských funkcí**:
    - Rozdíl mezi **parametry** a **argumenty**.
    - Různé vzory vstupů:

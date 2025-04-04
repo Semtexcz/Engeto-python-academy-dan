@@ -1,3 +1,5 @@
+## While cyklus
+
 1. **While smyčka**:
    - Použití `while` smyčky pro iteraci dokud je podmínka `True`.
    - Kombinace `while` s `if` a dalšími podmínkami.

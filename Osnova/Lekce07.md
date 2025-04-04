@@ -1,3 +1,5 @@
+## Uživatelské funkce
+
 1. **Funkce v Pythonu**:
    - Rozdíl mezi **zabudovanými funkcemi** a **uživatelskými funkcemi**.
    - Jak definovat a spustit uživatelskou funkci (`def <nazev_funkce>(parametry):`).

@@ -1,3 +1,5 @@
+## Python, obecný úvod
+
 1. **Instalace a spuštění Pythonu**:
    - Instalace Pythonu 3.8+.
    - Spuštění Pythonu v terminálu (kontrola verze, interaktivní interpret).

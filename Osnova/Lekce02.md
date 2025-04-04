@@ -1,3 +1,5 @@
+## Podmínky a metody
+
 1. **Rozhodování v Pythonu**:
    - Použití `if`, `elif`, `else`.
    - Základní rozhodovací logika pomocí porovnávání hodnot.

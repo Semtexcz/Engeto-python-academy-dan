@@ -1,3 +1,5 @@
+## Knihovny
+
 1. **Obecně ke knihovnám**:
    - Co je to knihovna v Pythonu (soubory `.py` obsahující opakovaně použitelný kód).
    - Dělení knihoven na **moduly** (jednotlivé `.py` soubory) a **balíčky** (složky obsahující více modulů).

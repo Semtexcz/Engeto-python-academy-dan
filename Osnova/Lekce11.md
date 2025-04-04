@@ -1,4 +1,4 @@
-### 📁 Práce se soubory a složkami (opakování)
+## Formáty souborů
 
 1. **Pathlib a Shutil**:
    - Vytváření složek (`Path.mkdir()`).
@@ -43,7 +43,3 @@
 5. **Praktická cvičení**:
    - Vytvoření skriptu, který načítá CSV soubory, zpracovává data a ukládá je ve formátu JSON.
    - Implementace argumentů příkazové řádky pro nastavení vstupního a výstupního souboru.
-
----
-
-Chceš, abych z toho udělal checklist pro studenty, aby si mohli kontrolovat, co už umí? 😊

@@ -1,4 +1,4 @@
-### 📁 Chyby a výjimky v Pythonu
+## Výjimky a debuggování v Pythonu
 
 1. **Traceback**:
    - Co je to **traceback** a jak ho číst (cesta k chybě, typ chyby, popis chyby).

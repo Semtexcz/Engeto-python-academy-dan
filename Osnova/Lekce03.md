@@ -1,3 +1,5 @@
+## Slovníky a množiny
+
 1. **Datový typ `dict` (slovník)**:
    - Vytváření slovníků (`{key: value}`).
    - Přístup k hodnotám pomocí klíče (`dict[key]`).
@@ -29,5 +31,3 @@
    - Vytváření aplikací na základě slovníků a množin (např. filmový slovník).
    - Manipulace s daty pomocí metod a operátorů.
    - Testování existence klíčů a hodnot.
-
-Chceš, abych z tohoto checklistu vytvořil šablonu, kterou můžeš snadno použít při výuce? 😊

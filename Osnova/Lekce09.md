@@ -1,4 +1,4 @@
-### 📁 Práce se soubory a adresáři
+### Práce s textovými soubory
 
 1. **Základní principy I/O**:
    - Rozdíl mezi RAM a diskem.

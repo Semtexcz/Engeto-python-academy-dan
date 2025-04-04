@@ -1,3 +1,5 @@
+## For cyklus
+
 1. **Iterační protokol (smyčky / cykly)**:
    - Rozumět principu iteračních protokolů (`for` a `while` smyčky).
    - Rozlišit mezi `for` a `while` smyčkami a vědět, kdy který použít.
@@ -30,5 +32,3 @@
 6. **Použití smyček pro zpracování textových dat**:
    - Vytváření slovníků na základě zpracovaného textu.
    - Automatické generování e-mailů nebo jiných hodnot pomocí `for` smyček.
-
-Chceš, abych z toho vytvořil šablonu na checklist, kterou můžeš jednoduše používat při výuce? 😊
