@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "first_name": "Dorri",
+        "last_name": "Di Bernardo",
+        "email": "ddibernardo0@nba.com",
+        "gender": "Female",
+        "ip_address": "158.223.131.8"
+    },
+    {
+        "id": 2,
+        "first_name": "Nisse",
+        "last_name": "Noye",
+        "email": "nnoye1@theatlantic.com",
+        "gender": "Female",
+        "ip_address": "252.57.218.72"
+    }
+]
