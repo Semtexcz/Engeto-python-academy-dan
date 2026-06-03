@@ -1,0 +1,5 @@
+PI = 3.1415
+e = 2.72
+BULHARSKA_KONSTANTA = 5456564
+
+print(PI, e)
